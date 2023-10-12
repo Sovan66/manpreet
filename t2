@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" type="text/css" href="q2">
+<style>
+    
+    p{
+        border: 2px solid white;
+    }
+</style>
+<h1>C programming</h1>
+</head>
+
+<body style="background: blue;">
+    <p > C is a procedural programming language. It was initially developed by Dennis Richie as a system programming language to write operating system. The main features of CLANGUAGE INCLUDE LOW LEVEL ACCESS TO MEMORY, SIMPLE SET F KEYWORDS AND CLEAN STYLE, THESE FEATURES MAKE C LANGUAGE SUITABLE FOR system programming like operating system or compiler development.</S></p>
+</body>
+</html>

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" type="text/css" href="q3">
+<body style="background: black;">
+   <style>
+    h2{
+        color: beige;
+    }
+    p{
+        color: beige;
+        border: 2px solid violet;
+   
+    }
+   </style>
+</body>
+</head>
+<h2>Java</h2>
+<body>
+    <p>Java has been one of the most popular programmig language for many years. Java is Object Oriented. However itis not considered as pure object oriented as it provides support  for primitive data types(like int,char,etc). The java codes are first cmpiled into bye code(machine independent code). Then the nyte code is run on java virtual machine regardless of the underlying architecture.</p>
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FJava_%2528programming_language%2529&psig=AOvVaw3p3OT1JibxQlrwAll0ptf0&ust=1697186195814000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCNigw7SN8IEDFQAAAAAdAAAAABAD" alt="java" sizes="200*400" srcset="blue">
+</body>
+</html>
